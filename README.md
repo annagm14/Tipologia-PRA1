@@ -14,7 +14,10 @@
     * `club_teams_data.csv` - Dades en CSV dels equips de cada club de la federació catalana de bàsquet
  
 ### Com executar el codi
-Per executar aquest codi només cal executar el fitxer `main.py` després d'haver instalat els requeriments del fitxer `requirements.txt`
+Per executar aquest codi només cal executar el fitxer `main.py` després d'haver instal·lat els requeriments del fitxer `requirements.txt`
+1. `pip install -r requirements.txt` -- Instal·lar els requeriments
+2. `python3 main.py` -- Executar el fitxer main.py
+
 
 ### DOI de Zenodo del dataset generat
 https://doi.org/10.5281/zenodo.14030523 
